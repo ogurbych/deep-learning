@@ -1,0 +1,9 @@
+imutils==0.5.4
+matplotlib==3.5.1
+numpy==1.22.3
+opencv-python==4.5.5.64
+pandas==1.4.1
+scikit-learn==1.0.2
+torch==1.11.0
+torchsummary==1.5.1
+torchvision==0.12.0
