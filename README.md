@@ -1,4 +1,6 @@
-# deep-learning-course-2022
+# Deep Learning Course
+
+This repository contains the source code of seminars and home assignments. 
 
 The course includes the following topics:
 
